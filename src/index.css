@@ -91,7 +91,7 @@ h4 {
 /* Lists: */
 
 ul {
-  width: 80%;
+  width: 15%;
   border-radius: 5px;
   /* background color 11 */
   background-color: #c5d3e2;
@@ -101,7 +101,7 @@ ul {
 }
 
 li {
-  font-size: 1.2em;
+  font-size: 2em;
   font-weight: 600;
   text-align: center;
   margin: 5px;
